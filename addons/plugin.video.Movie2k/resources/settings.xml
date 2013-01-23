@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-    
-<settings>
-        <setting id="Allow Fanart Backgrounds" type="bool" label="30000" default="false"/>
-        <setting id="Metadata ON/OFF" type="bool" label="30001" default="false"/>
-        
-<setting id="Adult genre Password" type="text" option="hidden" label="30002" default=""/>
-     </settings>
